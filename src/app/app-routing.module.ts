@@ -3,7 +3,7 @@ import { CommonModule } from '@angular/common';
 import { SearchComponent } from './search/search.component';
 import { ViewComponent } from './view/view.component';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
-import { RouterModule } from '@angular/router'
+import { RouterModule,Routes } from '@angular/router'
 
 const routes: Routes = [
   {path:'',redirectTo:'/search',pathMatch: 'full'},

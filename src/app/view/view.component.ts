@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { StockService } from '../stock.service';
-import { ActivatedRoute, Router } from '@angular/router';
-
+import { ActivatedRoute, Router,ParamMap } from '@angular/router';
+import { Chart } from 'chart.js'
 @Component({
   selector: 'app-view',
   templateUrl: './view.component.html',
