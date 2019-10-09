@@ -1,5 +1,25 @@
 # VegetablePrediction
 
+This is an angular application it uses Chart JS to display vegetable stock details in a reliable manner to enhance user experience and also to provide seamless data representation.
+
+## Components
+
+This application consists of three components
+
+* search
+* view
+* page not found
+
+## Additional Feature
+
+* Chart JS
+
+## App Routing Module
+
+This module consists of routes for all the components and also exports a constant array holding all the components.
+
+## Angular-CLI
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.6.
 
 ## Development server
