@@ -14,6 +14,14 @@ This application consists of three components
 
 * Chart JS
 
+## Preview
+
+!['image]('one.png')
+!['image]('two.png')
+!['image]('three.png')
+!['image]('four.png')
+!['image]('five.png')
+
 ## App Routing Module
 
 This module consists of routes for all the components and also exports a constant array holding all the components.
