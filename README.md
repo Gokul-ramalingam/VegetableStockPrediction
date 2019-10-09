@@ -18,7 +18,7 @@ This application consists of three components
 
 !['image'](readme/one.png)
 !['image'](readme/two.png)
-!['image'](readme/three.png')
+!['image'](readme/three.png)
 !['image'](readme/four.png)
 !['image'](readme/five.png)
 
