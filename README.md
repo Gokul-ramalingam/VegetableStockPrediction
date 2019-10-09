@@ -16,11 +16,11 @@ This application consists of three components
 
 ## Preview
 
-!['image]('one.png')
-!['image]('two.png')
-!['image]('three.png')
-!['image]('four.png')
-!['image]('five.png')
+!['image]('readme/one.png')
+!['image]('readme/two.png')
+!['image]('readme/three.png')
+!['image]('readme/four.png')
+!['image]('readme/five.png')
 
 ## App Routing Module
 
